@@ -1,7 +1,7 @@
 name: melissab
 favicon: null
-layout_spectrum: 0.43072680151090026
-typography_spectrum: 0.8472820443566889
+layout_spectrum: 1
+typography_spectrum: 0.48414
 title: Thoughts from a Girl Geek Superstar
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.37215403257869184
-  lightness: 0.471180837135762
-  saturation: 0.9055087356828153
+  brandStrength: 0.625
+  lightness: 0.4375
+  saturation: 0
   rhythmicContrast: 0.37525483779609203
 purpose: []
