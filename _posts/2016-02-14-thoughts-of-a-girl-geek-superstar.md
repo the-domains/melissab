@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'This site is about my ideas, dreams, and positive vibrations on the world '
-datePublished: '2016-02-14T23:08:21.421Z'
-dateModified: '2016-02-14T22:57:23.228Z'
-title: Thoughts of a Girl Geek Superstar
+datePublished: '2016-02-14T23:22:02.734Z'
+dateModified: '2016-02-14T23:21:44.942Z'
+title: Happy Love Day
 author: []
 sourcePath: _posts/2016-02-14-thoughts-of-a-girl-geek-superstar.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: thoughts-of-a-girl-geek-superstar/index.html
 _type: Article
 
