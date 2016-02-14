@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.75
+  brandStrength: 0.4839798
   lightness: 0.4375
   brandColors:
-    - '#39210B'
-    - '#F9E0B4'
-    - '#80432F'
-    - '#E9AC6D'
-    - '#BD644C'
+    - '#050403'
+    - '#F1F3F4'
+    - '#EB4B49'
+    - '#D89190'
+    - '#283A64'
   rhythmicContrast: 0.7057335
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: melissab
+favicon: null
 opengraph:
   image: null
   type: null
