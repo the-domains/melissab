@@ -1,29 +1,41 @@
-name: melissab
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48414
 title: Thoughts from a Girl Geek Superstar
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.75
+  lightness: 0.4375
+  brandColors:
+    - '#39210B'
+    - '#F9E0B4'
+    - '#80432F'
+    - '#E9AC6D'
+    - '#BD644C'
+  rhythmicContrast: 0.7057335
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: melissab
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.75
-  lightness: 0.4375
-  saturation: 0
-  rhythmicContrast: 0.37525483779609203
-purpose: []
+typography_spectrum: 0.529511
+layout_spectrum: 0.9477234
