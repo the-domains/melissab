@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'This site is about my ideas, dreams, and positive vibrations on the world '
-datePublished: '2016-02-14T22:49:19.726Z'
-dateModified: '2016-02-14T22:48:52.890Z'
+datePublished: '2016-02-14T23:08:21.421Z'
+dateModified: '2016-02-14T22:57:23.228Z'
 title: Thoughts of a Girl Geek Superstar
 author: []
+sourcePath: _posts/2016-02-14-thoughts-of-a-girl-geek-superstar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-14-thoughts-of-a-girl-geek-superstar.md
-published: true
 url: thoughts-of-a-girl-geek-superstar/index.html
 _type: Article
 
